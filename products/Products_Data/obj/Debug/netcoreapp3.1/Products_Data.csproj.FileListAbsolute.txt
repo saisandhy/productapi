@@ -1,0 +1,16 @@
+D:\csharptranning\products\Products_Data\bin\Debug\netcoreapp3.1\Products_Data.deps.json
+D:\csharptranning\products\Products_Data\bin\Debug\netcoreapp3.1\Products_Data.runtimeconfig.json
+D:\csharptranning\products\Products_Data\bin\Debug\netcoreapp3.1\Products_Data.runtimeconfig.dev.json
+D:\csharptranning\products\Products_Data\bin\Debug\netcoreapp3.1\Products_Data.dll
+D:\csharptranning\products\Products_Data\bin\Debug\netcoreapp3.1\Products_Data.pdb
+D:\csharptranning\products\Products_Data\bin\Debug\netcoreapp3.1\Product_Entity.dll
+D:\csharptranning\products\Products_Data\bin\Debug\netcoreapp3.1\Product_Entity.pdb
+D:\csharptranning\products\Products_Data\obj\Debug\netcoreapp3.1\Products_Data.csproj.AssemblyReference.cache
+D:\csharptranning\products\Products_Data\obj\Debug\netcoreapp3.1\Products_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharptranning\products\Products_Data\obj\Debug\netcoreapp3.1\Products_Data.AssemblyInfoInputs.cache
+D:\csharptranning\products\Products_Data\obj\Debug\netcoreapp3.1\Products_Data.AssemblyInfo.cs
+D:\csharptranning\products\Products_Data\obj\Debug\netcoreapp3.1\Products_Data.csproj.CoreCompileInputs.cache
+D:\csharptranning\products\Products_Data\obj\Debug\netcoreapp3.1\Products_Data.csproj.CopyComplete
+D:\csharptranning\products\Products_Data\obj\Debug\netcoreapp3.1\Products_Data.dll
+D:\csharptranning\products\Products_Data\obj\Debug\netcoreapp3.1\Products_Data.pdb
+D:\csharptranning\products\Products_Data\obj\Debug\netcoreapp3.1\Products_Data.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+D:\csharptranning\products\products\bin\Debug\products.exe.config
+D:\csharptranning\products\products\bin\Debug\products.exe
+D:\csharptranning\products\products\bin\Debug\products.pdb
+D:\csharptranning\products\products\obj\Debug\products.csproj.AssemblyReference.cache
+D:\csharptranning\products\products\obj\Debug\products.csproj.SuggestedBindingRedirects.cache
+D:\csharptranning\products\products\obj\Debug\products.csproj.CoreCompileInputs.cache
+D:\csharptranning\products\products\obj\Debug\products.exe
+D:\csharptranning\products\products\obj\Debug\products.pdb
